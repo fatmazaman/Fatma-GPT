@@ -9,12 +9,14 @@ Quickly built and deploy my own AI chatbot application with minimal effort.
 3.fatma-gpt-fatmazaman.vercel.app
 ```
 ## Demo 
-![demo](Fatma-GPT.gif) / ![](Fatma-GPT.gif)
+![demo](Fatma-GPT.gif)
 
 ## Tech Stack
 
 **Client:** Vite, Html, Css
+
 **Server:** Node, Express, Openai
+
 **Programming Language:** Vanilla JavaScript
 
 ## Authors
